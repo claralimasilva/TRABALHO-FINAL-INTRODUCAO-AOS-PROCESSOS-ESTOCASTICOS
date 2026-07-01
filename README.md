@@ -1,4 +1,4 @@
-# Trabalho 1 — Modelo de Ising com MCMC
+# Trabalho — Modelo de Ising com MCMC
 
 Simulação do modelo de Ising em grade 2D com algoritmo de Metropolis-Hastings, estimação da energia média por Monte Carlo e relatório em LaTeX.
 
